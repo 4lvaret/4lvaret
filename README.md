@@ -1,7 +1,7 @@
 ## Hi there!
 - I'm Alva.
 - Professional swede (i think?)
-  <h6 align="center"><strong>she/they</strong><br><br></p></p></strong><br><br></p>
+  <h6><strong>she/they</strong><br><br></p></p></strong><br><br></p>
 <!--
 **4lvaret/4lvaret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
