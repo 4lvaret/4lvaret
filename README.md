@@ -1,7 +1,7 @@
 ## Hi there!
 - I'm Alva.
-- Professional swede (i think?)
-  she/they
+- I'm working on figuring out life or something, I really dont know.
+- My pronouns are she/they.
 <!--
 **4lvaret/4lvaret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
